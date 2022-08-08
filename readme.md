@@ -1,3 +1,1 @@
-<h1 style="text-align: center">XIN CHÀO</h1>
-
----
+<h3 align="center"> Xin Chào  </h3>
